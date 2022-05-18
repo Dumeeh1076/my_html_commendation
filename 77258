@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+
+}
+.container{
+    width: 100%;
+    max-width: 70%;
+    margin: auto;
+    background-color: beige;
+    padding: 4rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.address{
+   
+    width: 35%;
+    margin-left: auto;
+
+}
+.recipient{
+    margin-block: 0;
+    line-height: 1.5rem;
+
+}
+.salutation{
+    font-style: italic;
+
+}
+. heading{
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.main{
+    text-align: justify;
+    line-height: 2rem;
+
+}
+.closing{
+    margin-top: 2rem;
+
+}

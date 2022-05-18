@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="address">
+            <p>11 mgbuiseralu road</p>
+            <p>rumuigbo</p>
+            <p>port harcourt, rivers state</p>
+            <p>17th may 2022</p>
+
+        </div>
+        <div class="recepient">
+            <p>the rivers state governor</p>
+            <p>government house</p>
+            <p>podium block, state secretariat</p>
+            <p>port harcourt</p>
+        </div>
+        <p class="salutation">Dear sir</p>
+        <p class="heading">commendation letter</p>
+        <main>
+            <div>
+                <p>Lorem ipsum dolor sit, amet consectetur 
+                    adipisicing elit. Quidem, non voluptas voluptatem 
+                    iusto expedita reprehenderit deserunt voluptate
+                     consequatur ab ea!</p>
+                     <br>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                         Quasi deserunt exercitationem nobis ab culpa. A voluptatum, 
+                         inventore expedita veritatis quidem, tempore doloremque impedit 
+                         iure ratione nam excepturi repudiandae provident, itaque ea 
+                         suscipit aut? Saepe necessitatibus similique fuga, natus aliquid magnam?
+                     </p>
+                     <br>
+                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                          Vel consequuntur nihil temporibus dolor fugiat. Distinctio 
+                          nemo dignissimos doloribus nisi ab.</p>
+                          <br>
+            </div>
+            <div class="closing">
+                <p>yours faithfully</p><br>
+                <p>biragbara brett</p>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
